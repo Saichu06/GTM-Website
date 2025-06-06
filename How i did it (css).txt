@@ -1,0 +1,25 @@
+.header{
+
+min height 
+width 
+bg image : linear-gradient ( rgba rgba and url for bg image)
+bg  position cen and size cov
+position rel
+
+}
+
+
+for nav display flex padding and justify cont and align items 
+
+nav-links ul{
+display flex and gap 30 px
+
+nav links ul li a {
+
+color white font size and weight 
+
+now for hover and nav links ul li a : hover{ color:...;
+
+hero-btn:
+display , color ,border , padding , font size , bg trans,
+pos rela,  curs pointer, margin-top 15px , text decoration none to avoid underlines or anything.

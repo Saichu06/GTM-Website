@@ -1,0 +1,30 @@
+normal doctype shi 
+
+inside head meta and set content="widht=device-width , initial-scale=1.0"
+
+title
+
+link rel stylesheet and href style css
+
+and inside body now
+add div class as 'header'
+and inside it use <nav>
+
+inside nav now comes logo inside <a href....><img src=...></a>
+div class="nav-links"
+
+<ul>
+<li><a href> for home about products contact and blog
+
+close these
+
+from google fonts add a font
+
+div class as text-box
+
+h1 and p given with <br>
+
+a link added below it <a href class as 'hero-btn'>visit us to ..
+
+
+
